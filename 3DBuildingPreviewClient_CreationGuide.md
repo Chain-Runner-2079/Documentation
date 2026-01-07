@@ -2,6 +2,9 @@
 
 Thank you for contributing to the dystopian world of **Chain Runner 2079**! This project is a free-to-play passion project fueled by community creativity.
 
+Current **3D Building Client** version: **0.2.21**:
+https://chain-runner-2079.itch.io/chain-runner-2079
+
 ## Prerequisites
 
 Buildings are created using **Blockbench**, a free, open-source 3D modeling tool.
