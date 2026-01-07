@@ -2,6 +2,10 @@
 
 Welcome to the central documentation hub for **Chain Runner 2079**.
 
+**Contents:**
+
+* [3D Building Preview Client - Content Creation Guide](https://github.com/Chain-Runner-2079/Documentation/blob/main/3DBuildingPreviewClient_CreationGuide.md)
+
 ---
 
 ## Support & Community
