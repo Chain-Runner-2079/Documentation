@@ -38,16 +38,13 @@ Naming an element with these suffixes automatically attaches the corresponding l
 
 ## Export Settings
 
-Export via **File -> Export -> Export glTF Model** using these settings:
+Export via **File -> Export -> Export glTF Model** using these settings (*Mesh data only*):
 
 * **Format:** ASCII (glTF)
 * **Model Export Scale:** `2` (default)
-* **Includes:**
 * **Embed Textures:** OFF
 * **Export Groups as Armature:** OFF
-* **Export Animations:** OFF (Mesh data only)
-
-
+* **Export Animations:** OFF
 
 ---
 
