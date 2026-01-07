@@ -1,4 +1,4 @@
-# Chain Runner 2079 - Content Creation Guide
+# Chain Runner 2079 | Content Creation Guide
 
 Thank you for contributing to the dystopian world of **Chain Runner 2079**! This project is a free-to-play passion project fueled by community creativity.
 
