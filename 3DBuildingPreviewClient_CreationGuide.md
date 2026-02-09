@@ -61,7 +61,7 @@ Export via **File -> Export -> Export glTF Model** using these settings (*Mesh d
 
 ## Support & Community
 
-* **Links:** [linktr.ee/chainrunner2079](https://chainrunner2079.online)
+* **Links:** [chainrunner2079.online](https://chainrunner2079.online)
 * **Discord:** [Join our Server](https://discord.gg/VayJJVRja7)
 * **Email:** [core@chainrunner2079.online](mailto:core@chainrunner2079.online)
 
