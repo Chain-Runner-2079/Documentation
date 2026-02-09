@@ -10,9 +10,9 @@ Welcome to the central documentation hub for **Chain Runner 2079**.
 
 ## Support & Community
 
-* **Overview:** [linktr.ee/chainrunner2079](https://linktr.ee/chainrunner2079)
+* **Links:** [chainrunner2079.online](chainrunner2079.online9)
 * **Discord:** [Join our Server](https://discord.gg/VayJJVRja7)
-* **Email:** [chainrunner@tycoono.me](mailto:chainrunner@tycoono.me)
+* **Email:** [core@chainrunner2079.online](mailto:core@chainrunner2079.online)
 
 **Support the Project:**
 As a free-to-play title, we appreciate any support on [Ko-fi](https://ko-fi.com/chainrunner2079).
