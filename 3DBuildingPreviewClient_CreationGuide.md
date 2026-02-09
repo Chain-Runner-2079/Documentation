@@ -3,7 +3,7 @@
 Thank you for contributing to the dystopian world of **Chain Runner 2079**! This project is a free-to-play passion project fueled by community creativity.
 
 Current **3D Building Client**:
-[https://chain-runner-2079.itch.io/chain-runner-2079](https://chain-runner-2079.itch.io/3d-preview-client)
+[https://chain-runner-2079.itch.io/3d-preview-client](https://chain-runner-2079.itch.io/3d-preview-client)
 
 ## Prerequisites
 
