@@ -2,16 +2,16 @@
 
 Thank you for contributing to the dystopian world of **Chain Runner 2079**! This project is a free-to-play passion project fueled by community creativity.
 
-Current **3D Building Client** version: **0.2.21**:
-https://chain-runner-2079.itch.io/chain-runner-2079
+Current **3D Building Client**:
+[https://chain-runner-2079.itch.io/chain-runner-2079](https://chain-runner-2079.itch.io/3d-preview-client)
 
 ## Prerequisites
 
 Buildings are created using **Blockbench**, a free, open-source 3D modeling tool.
 
 1. **Download:** [blockbench.net](https://www.blockbench.net)
-2. **Templates:** Use `basic.bbmodel` (simple) or `police.bbmodel` (complex) as starting points.
-3. **Setup:** Open the Game Client and click **"Open Dir"** to find the local model folder where your exported files belong.
+2. **Setup:** Open the 3D Preview Client and click **"Open Dir"** to find the local model folder where your original and exported files belong.
+3. **Templates:** Use `police.bbmodel` as starting point.
 
 ---
 
